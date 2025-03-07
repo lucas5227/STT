@@ -22,4 +22,9 @@ ENV/
 .DS_Store
 *.egg-info/
 *.egg
-touch in/.gitkeep
+
+.env
+in/*
+!in/.gitkeep
+out/*
+!out/.gitkeep
