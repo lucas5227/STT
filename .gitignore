@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environments
+env/
+venv/
+ENV/
+.venv/
+
+# IDE files
+.idea/
+*.iml
+*.swp
+
+# Logs
+*.log
+
+# Miscellaneous
+.DS_Store
+*.egg-info/
+*.egg
+touch in/.gitkeep
